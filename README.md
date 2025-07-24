@@ -32,7 +32,7 @@ Mayoritas sentimen bersifat Netral, yang umumnya berisi penyampaian ulang berita
 <img width="761" height="559" alt="image" src="https://github.com/user-attachments/assets/c01f157d-72c7-4937-9688-a1766e18e7db" />
 
 # 🛠️ Kinerja Model
-Model Naive Bayes yang dibangun untuk klasifikasi sentimen ini mencapai kinerja (F1-Score) rata-rata sebesar 66% dari hasil 5-Fold Cross-Validation.
+Model Naive Bayes yang dibangun untuk klasifikasi sentimen ini mencapai kinerja (Accuracy) rata-rata sebesar 66% dari hasil 5-Fold Cross-Validation.
 
 # ⚠️ Keterbatasan (Limitation)
 Perlu dicatat bahwa kinerja model belum dapat dikatakan optimal. Skor 66% menunjukkan bahwa model sudah mampu mengenali pola sentimen, namun masih memiliki ruang besar untuk perbaikan.
